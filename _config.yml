@@ -1,7 +1,7 @@
 name: FLPNO
 favicon: null
-layout_spectrum: 0.6683367190416902
-typography_spectrum: 0.7578756231814623
+layout_spectrum: 0.75037
+typography_spectrum: 0.35072
 title: FLPNO
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#e30011'
+    - '#f8d80b'
+    - '#0068ff'
+    - '#f9818a'
   brandStrength: 0.9442090343218297
   lightness: 0.8266149968840182
-  saturation: 0.4710977962240577
+  saturation: 0.5
   rhythmicContrast: 0.2728251039516181
 purpose: []
